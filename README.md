@@ -1,4 +1,4 @@
-# 🌊 PINN — Oscillateur Harmonique Amorti
+#  PINN — Oscillateur Harmonique Amorti
 
 <p align="center">
   <img src="assets/training.gif" alt="PINN training animation" width="780"/>
