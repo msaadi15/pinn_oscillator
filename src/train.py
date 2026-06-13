@@ -1,7 +1,6 @@
 """
 Training loop for the PINN oscillator.
 """
-
 import torch
 import torch.optim as optim
 from pathlib import Path

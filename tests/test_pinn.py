@@ -2,7 +2,6 @@
 Tests for PINN components.
 Run with: pytest tests/
 """
-
 import pytest
 import torch
 import numpy as np
