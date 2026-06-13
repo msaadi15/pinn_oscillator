@@ -7,4 +7,3 @@ dist/ build/ *.so
 .ipynb_checkpoints/ *.ipynb
 results/*.pt
 .DS_Store Thumbs.db
-.vscode/ .idea/
