@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 main.py — run PINN training and generate all result figures + animation GIF.
-
-Usage
+usage
 -----
     python main.py                        # default parameters
     python main.py --omega0 3 --gamma 0.5 --epochs 8000
