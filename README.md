@@ -4,12 +4,6 @@
   <img src="assets/training.gif" alt="PINN training animation" width="780"/>
 </p>
 
-<p align="center">
-  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white"/></a>
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Physics--Informed-Neural%20Network-185FA5"/>
-  <img src="https://img.shields.io/badge/license-MIT-0F6E56"/>
-</p>
 
 ---
 
