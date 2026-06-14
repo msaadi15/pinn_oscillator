@@ -9,7 +9,7 @@
 
 ## What is a PINN?
 
-A **Physics-Informed Neural Network** (PINN) is a neural network that learns to satisfy a differential equation — not by fitting data, but by minimising a *physics residual* directly.
+A **Physics-Informed Neural Network** (PINN) is a neural network that learns to satisfy a differential equation  not by fitting data, but by minimising a *physics residual* directly.
 
 The network maps time → displacement:
 
